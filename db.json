@@ -1,0 +1,74 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "React"
+    },
+    {
+      "id": 2,
+      "name": "Java"
+    },
+    {
+      "id": 3,
+      "name": "Linux"
+    }
+  ],
+  "posts": [
+    {
+      "title": "React Components",
+      "body": "Reusable code.",
+      "categoryId": 1,
+      "date": "2022-10-27T10:56:56.649Z",
+      "reactions": {
+        "thumbsUp": 0,
+        "wow": 0,
+        "heart": 1,
+        "rocket": 0,
+        "coffee": 0
+      },
+      "id": 6
+    },
+    {
+      "title": "Redux",
+      "body": "Redux is an open-source JavaScript library for managing and centralizing application state. It is most commonly used with libraries such as React or Angular for building user interfaces. Similar to Facebook's Flux architecture, it was created by Dan Abramov and Andrew Clark.",
+      "categoryId": 1,
+      "date": "2022-10-27T11:37:19.071Z",
+      "reactions": {
+        "thumbsUp": 0,
+        "wow": 1,
+        "heart": 0,
+        "rocket": 0,
+        "coffee": 0
+      },
+      "id": 7
+    },
+    {
+      "title": "Redux Toolkit",
+      "body": "Redux Toolkit ; Simple. Includes utilities to simplify common use cases like store setup, creating reducers, immutable update logic, and more. ; Opinionated.",
+      "categoryId": 1,
+      "date": "2022-10-27T11:39:07.080Z",
+      "reactions": {
+        "thumbsUp": 1,
+        "wow": 0,
+        "heart": 1,
+        "rocket": 0,
+        "coffee": 0
+      },
+      "id": 8
+    },
+    {
+      "title": "Java 19",
+      "body": "The latest version of Java is Java 19 or JDK 19 released on September, 20th 2022 (follow this article to check Java version on your computer). JDK 19 is a regular update release, and JDK 17 is the latest Long Term Support (LTS) release of Java SE platform (about 8 years of support from Oracle)",
+      "categoryId": 2,
+      "date": "2022-10-28T05:14:38.795Z",
+      "reactions": {
+        "thumbsUp": 0,
+        "wow": 0,
+        "heart": 0,
+        "rocket": 0,
+        "coffee": 1
+      },
+      "id": 9
+    }
+  ]
+}
